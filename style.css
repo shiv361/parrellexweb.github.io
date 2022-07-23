@@ -1,0 +1,97 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8cm;
+    color: #666;
+    /* background-image: url(images1/image1.png); */
+
+}
+.pimg1{
+    background-image: url(images1/image1.png);
+    min-height: 100%;
+}
+    .pimg2{
+        background-image: url(images1/image2.png);
+        min-height: 100%;
+    }
+        .pimg3{
+            background-image: url(images1/image3.png);
+            min-height: 100%;
+   
+}
+.pimg1,.pimg2,.pimg3{
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.pimg2,.pimg3{
+
+    
+
+
+}
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    background-color: #666;
+
+}
+.textBg{
+    background: #313534;
+    color: white;
+    padding: 20px;
+}
+.light{
+    padding: 50px 80px;
+    text-align: center;
+}
+.textBg1{
+    background: #313534;
+    color: white;
+    padding: 2px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+      
+.ptext1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    
+}
+.ptext1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+}
+.textBg2{
+    background: #313534;
+    color: white;
+    padding: 2px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
